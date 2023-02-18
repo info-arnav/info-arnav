@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**info-arnav/info-arnav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Arnav a tech enthusiast studying mechanical engineering at Netaji Subhas University of Technology.
 
-Here are some ideas to get you started:
+I have been inolved in a variety of projects and currently working on three projects -
+Dope
+DaisForAll
+Alum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am also trying to learn a bit of web 3 and machine learning, if someone can help me with that then do connect with me.
+
+You can contact me at info@arnavgupta.net
+
+Look forward to interacting with you all
+
+
