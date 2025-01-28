@@ -2,9 +2,7 @@
 
 I am Arnav a tech enthusiast studying mechanical engineering at Netaji Subhas University of Technology.
 
-I have been inolved in a variety of projects and currently working on three projects - Dope, DaisForAll and Alum
-
-I am also trying to learn a bit of web 3 and machine learning, if someone can help me with that then do connect with me.
+I just build some stuff for fun.
 
 You can contact me at info@arnavgupta.net
 
